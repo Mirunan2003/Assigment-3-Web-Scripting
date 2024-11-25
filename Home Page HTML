@@ -1,0 +1,6 @@
+<% include header %>
+<main>
+  <h2>Welcome to Workout Tracker!</h2>
+  <a href="/workouts">Get Started</a>
+</main>
+<% include footer %>
